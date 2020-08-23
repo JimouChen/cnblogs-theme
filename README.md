@@ -6,6 +6,6 @@
 - 依次复制css、js、页脚html即可，页首html可不用
 - 效果如下：https://www.cnblogs.com/jmchen/
 
-![image](../img/1.png);
+![image](https://github.com/JimouChen/cnblogs-theme/blob/master/img/1.png);
 
 - 也可以参考网上其他制作的漂亮的模板
